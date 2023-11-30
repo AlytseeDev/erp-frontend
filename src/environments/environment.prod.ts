@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
- serverurl: "https://sea-lion-app-nvvro.ondigitalocean.app/api/"
+ serverurl: "https://erp-backend-sigma.vercel.app/api/"
 };
